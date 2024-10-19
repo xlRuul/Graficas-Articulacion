@@ -1,0 +1,4 @@
+﻿  Letra C.cpp
+A:\Todo\Downloads\23I\Graficas\Proyecto\Letra C\Letra C\Letra C.cpp(144,47): warning C4554: "^": compruebe la prioridad de operador para posibles errores; utilice paréntesis para indicar la prioridad
+A:\Todo\Downloads\23I\Graficas\Proyecto\Letra C\Letra C\Letra C.cpp(755,16): warning C4018: '<': no coinciden signed/unsigned
+  Letra C.vcxproj -> A:\Todo\Downloads\23I\Graficas\Proyecto\Letra C\Debug\Letra C.exe
